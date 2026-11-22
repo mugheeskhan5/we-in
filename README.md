@@ -1,5 +1,7 @@
 [![Frontend integration](https://github.com/mugheeskhan5/we-in/actions/workflows/frontend.yml/badge.svg)](https://github.com/mugheeskhan5/we-in/actions/workflows/frontend.yml)
 
+[![Backend checks](https://github.com/mugheeskhan5/we-in/actions/workflows/backend.yml/badge.svg)](https://github.com/mugheeskhan5/we-in/actions/workflows/backend.yml)
+
 # Dastak - Assisted Fraud Reporting
 
 Dastak helps a citizen turn a text explanation or Urdu recording into a reviewed complaint
